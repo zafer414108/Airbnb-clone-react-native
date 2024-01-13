@@ -22,8 +22,7 @@ Additional features:
 
 </div>
 
-## Demo
+## Screnn gif
 
 ![Demo](./screenshots/demo.gif)
 
-# Airbnb-clone-react-native
